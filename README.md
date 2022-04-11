@@ -14,5 +14,6 @@
  ## Summary
   With the upcoming "silver tsunami", it's easy to recognize that a large portion of the company is eligible for retirement. Although all those eligible may not retire, it is important to act on and prepare for new hires to fill the roles of those retiring. In total, there are 72,458 employees that could retire across all job titles. We must assume that all these roles need to be filled in order to ensure the company is fully constructed. A large portion of these jobs that need to be filled come from senior positions. This begs the question of if the company is prepared to promote within the company to fill these roles. To get a better understanding of those that are eligible for retirement, but not yet incorporated in the Senior roles for mentorship, I have provided a count for potential replacements within the company.
   ![mentorship_count](https://github.com/JTGonzaga/Pewlett_Hackard_Analysis/blob/main/Analysis/mentorship_count.png)
+  
  As we can see there are 1,549 current employees that are eligible to become mentors for Pewlett Hackard's new hires.
  
